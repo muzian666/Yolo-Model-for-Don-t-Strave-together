@@ -15,10 +15,10 @@
   稍等片刻，即出现标记工具窗口。
   
 ### 目前已知存在问题
- - [ ] ❌ 1.在Windows10下，使用环境为Python3.10.0时，点击Creat ReatBox后工具直接闪退。
- - [x] ✅ 2.在Windows & Macos下，更改项目格式(例如：PasalVOC转为Yolo)，按下保存后，工具闪退。
+ - [ ] 1.在Windows10下，使用环境为Python3.10.0时，点击Creat ReatBox后工具直接闪退。
+ - [x] 2.在Windows & Macos下，更改项目格式(例如：PasalVOC转为Yolo)，按下保存后，工具闪退。
 
 
-#### 已知问题的解决方法
-❌ 1. (暂无解决方法)
-✅ 2. 解决方法：先选定Save File Dir，再转换格式
+### 已知问题的解决方法
+1. (暂无解决方法)
+2. 解决方法：先选定Save File Dir，再转换格式
