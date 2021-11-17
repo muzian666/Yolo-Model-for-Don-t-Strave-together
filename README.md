@@ -16,4 +16,4 @@
   
 ### 目前已知存在问题
  - [ ] 在Windows10下，使用环境为Python3.10.0时，点击Creat ReatBox后工具直接闪退。
- - [ ] 在Windows & Macos下，更改项目模式(例如：PasalVOC转为Yolo)，按下保存后，工具闪退。
+ - [x] 在Windows & Macos下，更改项目格式(例如：PasalVOC转为Yolo)，按下保存后，工具闪退。(解决方法：先选定Save File Dir，再转换格式)
