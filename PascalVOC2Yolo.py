@@ -54,7 +54,7 @@ for flb in lbfiles:
         out += str(classes.index(name)) + '' + str(x) + '' + str(y) + '' + str(w) + '' + str(h) + '\n'
     fname = flb.replace('vocdata\\annotations', 'yolodata').replace('.xml','.txt')  #存档路径
     ftxt = open(fname,'w')
-    ftxt = ftxt.write(out)  #写入存档
+    ftxt.write(out)  #写入存档
     
 fxml.close()
 ftxt.close()
