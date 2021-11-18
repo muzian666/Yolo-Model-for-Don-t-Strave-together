@@ -59,7 +59,3 @@ for flb in lbfiles:
 fxml.close()
 ftxt.close()
 print('===Building Training Data Success===')
-    
-
-
-
