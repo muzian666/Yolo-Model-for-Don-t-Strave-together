@@ -40,5 +40,6 @@
 
 # Reference
   (没啥格式，就有啥标啥）
+  1. 《饥荒联机版》图鉴：https://www.gamersky.com/handbook/201702/866370.shtml
 
 # 未完待续
