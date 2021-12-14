@@ -32,10 +32,13 @@
    在图片出现后，点击Creat ReatBox（创建区块），对需要标记的对象选框，并对标签进行命名。
    
    点击保存。
-
+   
+## 3.标记工具命名规则文件
+   链接地址：https://hksyu3-my.sharepoint.com/:x:/g/personal/199010_hksyu_edu_hk/EUxivwAmQ9tImAHFdUAHoKcBkOGMwzNblh-g61EqVktVmg?e=lFS2XL 中国大陆境内可直接访问（实时更新）
+    
 # 内容更新记录
   1.2021/12/08 更新了附带名称的图鉴目录
-
+  2.更新了一个命名规则的文档
 
 # Reference
   (没啥格式，就有啥标啥）
