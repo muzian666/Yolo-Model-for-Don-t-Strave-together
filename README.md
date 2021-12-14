@@ -34,7 +34,7 @@
    点击保存。
    
 ## 3.标记工具命名规则文件
-   链接地址：https://hksyu3-my.sharepoint.com/:x:/g/personal/199010_hksyu_edu_hk/EUxivwAmQ9tImAHFdUAHoKcBkOGMwzNblh-g61EqVktVmg?e=lFS2XL 中国大陆境内可直接访问（实时更新）
+   链接地址：“https://hksyu3-my.sharepoint.com/:x:/g/personal/199010_hksyu_edu_hk/EUxivwAmQ9tImAHFdUAHoKcBkOGMwzNblh-g61EqVktVmg?e=lFS2XL” 中国大陆境内可直接访问（实时更新）
     
 # 内容更新记录
   1.2021/12/08 更新了附带名称的图鉴目录
